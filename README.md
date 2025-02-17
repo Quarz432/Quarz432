@@ -1,10 +1,8 @@
 <h1 align="center">Welcome on my Profile <img src="https://flyff-wiki.gpotato.com.br/images/5/58/Cat_face.gif" alt="Cat Face"> </h1> 
 
-- 💬 Ask me about Python & Cybersecurity
 - 🌍 Germany
-- 📺 Youtube Channel: https://www.youtube.com/@easypy/videos
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nivid42&label=Profile%20views&color=0e75b6&style=flat" alt="nivid42" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=quarz432&label=Profile%20views&color=0e75b6&style=flat" alt="Quarz432" /> </p>
 
 
 ## 💉 Skills 💉
