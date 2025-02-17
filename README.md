@@ -10,7 +10,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Core**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Languages**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Technologys**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| **Misc**
 :-----------------:|:------------------------------------:|:----------------:|:----------------:  
 ![Programming](https://img.shields.io/badge/Programming-OK-orange) | ![Python](https://img.shields.io/badge/Python-Good-green) | ![Git](https://img.shields.io/badge/Git-Beginner-red) | ![Speaking](https://img.shields.io/badge/Speaking-Expert-brightgreen)  
-![Patience](https://img.shields.io/badge/Patience-Tireless-brightgreen) | ![Java](https://img.shields.io/badge/Java-Average-orange) | | ![Communication](https://img.shields.io/badge/Communication-Expert-green) 
+![Patience](https://img.shields.io/badge/Patience-Tireless-brightgreen) | ![Java](https://img.shields.io/badge/Java-Average-orange) | | ![Communication](https://img.shields.io/badge/Communication-Expert-brightgreen) 
 ![SearchExpert](https://img.shields.io/badge/Searching-Good-brightgreen) | ![HTML](https://img.shields.io/badge/HTML-Average-orange) | | 
 
 
