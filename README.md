@@ -18,7 +18,7 @@
 <h2 align="left">💻 Programming/Markup Languages 💻</h2>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,,mysql,html,java,css" /> <br>
+    <img src="https://skillicons.dev/icons?i=py,mysql,html,java,css" /> <br>
   </a>
   <small>* Descending by Skill lvl</small>
 </p>
